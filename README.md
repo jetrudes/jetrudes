@@ -1,4 +1,4 @@
-## Oiii eu sou o Carlos Araújo, sou estudante de programação na rochetseat!
+## Oiii eu sou o Carlos Araújo, sou estudante de programação na rocketseat!
 <div align="center">
   <a href="https://github.com/jetrudes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jetrudes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
